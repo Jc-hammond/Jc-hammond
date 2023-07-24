@@ -33,6 +33,8 @@ Tools & Software: Figma, Postman, React Native Debugger
 
 ### LBH
 
+I led the mobile development of the LBH beauty products application, where I effectively utilized React Native and the MVVM design pattern. This endeavor resulted in a visually captivating and highly user-friendly application that significantly enhanced user experience.
+
 <p float="left">
   <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHHome.png" width="200">
   <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHProducts.png" width="200" />
@@ -45,6 +47,8 @@ In collaboration with 808 Partners
 
 
 ### Muunifi
+
+I undertook a holistic overhaul of the Muunifi application's design, deploying React Native's Animation along with custom dynamic styling components. This transformation led to an unprecedented and intuitive design that boosted user engagement and overall satisfaction. Furthermore, I engineered a versatile theme switcher for the Muunifi application using React Native and TypeScript, providing users the flexibility to select their preferred dark or light modes, thereby enhancing the overall user experience.
 
 <!-- Project 2 details -->
 
