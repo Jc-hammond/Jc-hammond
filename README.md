@@ -1,4 +1,4 @@
-# [Your Name] - iOS Developer Portfolio
+# Connor Hammond - iOS Developer Portfolio
 
 ## Table of Contents
 
@@ -12,15 +12,19 @@
 - [Education](#education)
 - [Certifications](#certifications)
 - [Contact Information](#contact-information)
-- [References](#references)
 
 ## About Me
 
-<!-- Brief introduction about yourself, your passions, your interests in iOS development -->
+A seasoned iOS Developer with expertise in Swift, React Native (TS/JS), and SwiftUI, I am located in Orem, UT and prefer remote or hybrid work environments. I specialize in creating intuitive user interfaces and efficient backend solutions that improve user interaction and enhance overall application performance. With hands-on experience in utilizing industry-leading tools and software like Figma, Postman, and React Native Debugger, I am well-equipped to handle the demands of modern iOS application development.
 
 ## Skills
 
-<!-- List your skills here, like: Swift, Objective-C, Xcode, UIKit, SwiftUI, CoreData, etc. -->
+My technical competencies encompass a diverse range of languages, frameworks, and tools:
+
+Languages: Swift, React Native (TS/JS), Objective-C
+Frameworks & Libraries: SwiftUI, UIKit
+Database & Industry Tools: Firebase, CloudKit, Core Data
+Tools & Software: Figma, Postman, React Native Debugger
 
 ## Projects
 
@@ -40,11 +44,15 @@
 
 ## Experience
 
-<!-- List your previous jobs, roles, responsibilities, achievements, and timeframes -->
+Presently, I serve as a Mobile Software Engineer (iOS Specialist) at 808 Partners, Inc., where I have led the comprehensive redesign of the Muunifi application, developed a dynamic theme switcher, spearheaded the development of the LBH beauty products application, and assisted in the backend migration for the Tether app.
+
+My previous experiences include working as an iOS Developer at Devmountain, where I implemented a social workout experience feature in "GymBuddy" app and developed user-friendly applications using Xcode, Obj-C, and Swift. I also had the opportunity to serve as a Tech Specialist and Missionary at The Church of Jesus Christ of LDS, where I led the adoption of technological best practices and mentored team members to foster a collaborative work environment.
+
+With my wide range of experiences and proven skills, I am a strong candidate for any iOS development position, and am ready to leverage my skills to contribute to innovative and exciting projects.
 
 ## Education
 
-<!-- Your academic qualifications -->
+I graduated from Devmountain, Lehi UT in 2021 with a certificate in iOS Software Development.
 
 ## Certifications
 
@@ -52,8 +60,4 @@
 
 ## Contact Information
 
-<!-- Your email, LinkedIn, Twitter, etc. Remember not to share sensitive personal information -->
-
-## References
-
-<!-- References if any. This could be links to your mentors, to people who can vouch for your skills and experiences, or testimonies from previous employers or project teammates -->
+Feel free to connect with me via email at jasonchammond@gmail.com or check out my work on my LinkedIn and GitHub profiles.
