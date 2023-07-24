@@ -5,8 +5,8 @@
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Projects](#projects)
-    - [Project 1](#project-1)
-    - [Project 2](#project-2)
+    - [LBH](#LBH)
+    - [Muunifi](#Muunifi)
     - [GitFitWithFriends](#GitFitWithFriends)
 - [Experience](#experience)
 - [Education](#education)
@@ -30,13 +30,19 @@ Tools & Software: Figma, Postman, React Native Debugger
 
 <!-- Showcase your projects. Include the project title, brief description, technologies used, and links to the source code and demo (if available). It's good to have screenshots or GIFs to visualize your work. -->
 
-### Project 1
+
+### LBH
 
 <!-- Project 1 details -->
 
-### Project 2
+In collaboration with 808 Partners
+
+
+### Muunifi
 
 <!-- Project 2 details -->
+
+In collaboration with 808 Partners
 
 ### GitFitWithFriends
 <p float="left">
