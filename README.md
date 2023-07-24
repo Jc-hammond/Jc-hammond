@@ -10,7 +10,6 @@
     - [GitFitWithFriends](#GitFitWithFriends)
 - [Experience](#experience)
 - [Education](#education)
-- [Certifications](#certifications)
 - [Contact Information](#contact-information)
 
 ## About Me
@@ -84,10 +83,6 @@ With my wide range of experiences and proven skills, I am a strong candidate for
 ## Education
 
 I graduated from Devmountain, Lehi UT in 2021 with a certificate in iOS Software Development.
-
-## Certifications
-
-<!-- Any relevant certifications, like Apple's certifications, Coursera, Udemy, etc. -->
 
 ## Contact Information
 
