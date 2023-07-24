@@ -40,7 +40,10 @@ Tools & Software: Figma, Postman, React Native Debugger
 
 ### Project 3
 
-<!-- Project 3 details -->
+GitFitWithFriends
+
+![HomeScreen](https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-0.png)
+
 
 ## Experience
 
