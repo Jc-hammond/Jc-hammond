@@ -55,7 +55,7 @@ I undertook a holistic overhaul of the Muunifi application's design, deploying R
   <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiHome.png" width="200">
   <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiHomeTwo.png" width="200" />
   <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiMenu.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiSettings.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiCreatePost.png" width="200" />
 </p>
 
 
