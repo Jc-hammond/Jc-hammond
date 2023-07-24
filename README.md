@@ -46,7 +46,7 @@ Tools & Software: Figma, Postman, React Native Debugger
 
 Presently, I serve as a Mobile Software Engineer (iOS Specialist) at 808 Partners, Inc., where I have led the comprehensive redesign of the Muunifi application, developed a dynamic theme switcher, spearheaded the development of the LBH beauty products application, and assisted in the backend migration for the Tether app.
 
-My previous experiences include working as an iOS Developer at Devmountain, where I implemented a social workout experience feature in "GymBuddy" app and developed user-friendly applications using Xcode, Obj-C, and Swift. I also had the opportunity to serve as a Tech Specialist and Missionary at The Church of Jesus Christ of LDS, where I led the adoption of technological best practices and mentored team members to foster a collaborative work environment.
+My previous experiences include my time as an iOS Developer Student at Devmountain, where I implemented a social workout experience feature in "GymBuddy" app and developed user-friendly applications using Xcode, Obj-C, and Swift. I also had the opportunity to serve as a Tech Specialist and Missionary at The Church of Jesus Christ of LDS, where I led the adoption of technological best practices and mentored team members to foster a collaborative work environment.
 
 With my wide range of experiences and proven skills, I am a strong candidate for any iOS development position, and am ready to leverage my skills to contribute to innovative and exciting projects.
 
