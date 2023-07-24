@@ -50,7 +50,14 @@ In collaboration with 808 Partners
 
 I undertook a holistic overhaul of the Muunifi application's design, deploying React Native's Animation along with custom dynamic styling components. This transformation led to an unprecedented and intuitive design that boosted user engagement and overall satisfaction. Furthermore, I engineered a versatile theme switcher for the Muunifi application using React Native and TypeScript, providing users the flexibility to select their preferred dark or light modes, thereby enhancing the overall user experience.
 
-<!-- Project 2 details -->
+
+<p float="left">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiHome.png" width="200">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiHomeTwo.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiMenu.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiSettings.png" width="200" />
+</p>
+
 
 In collaboration with 808 Partners
 
