@@ -33,7 +33,13 @@ Tools & Software: Figma, Postman, React Native Debugger
 
 ### LBH
 
-<!-- Project 1 details -->
+<p float="left">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHHome.png" width="200">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHProducts.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHMenu.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHProductDetails.png" width="200" />
+     <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHCart.png" width="200" />
+</p>
 
 In collaboration with 808 Partners
 
