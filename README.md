@@ -1,4 +1,4 @@
-# Connor Hammond - iOS Developer Portfolio
+# iOS Developer Showcase
 
 ## Table of Contents
 
