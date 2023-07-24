@@ -7,7 +7,7 @@
 - [Projects](#projects)
     - [Project 1](#project-1)
     - [Project 2](#project-2)
-    - [Project 3](#project-3)
+    - [GitFitWithFriends](#GitFitWithFriends)
 - [Experience](#experience)
 - [Education](#education)
 - [Certifications](#certifications)
@@ -38,11 +38,10 @@ Tools & Software: Figma, Postman, React Native Debugger
 
 <!-- Project 2 details -->
 
-### Project 3
+### GitFitWithFriends
 
-GitFitWithFriends
+<img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-0.png" width="200" height="200">
 
-![HomeScreen](https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-0.png)
 
 
 ## Experience
