@@ -39,8 +39,14 @@ Tools & Software: Figma, Postman, React Native Debugger
 <!-- Project 2 details -->
 
 ### GitFitWithFriends
+<p float="left">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-0.png" width="200">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-1.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-2.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-3.png" width="200" />
+</p>
 
-<img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-0.png" width="200" height="380">
+
 
 
 
