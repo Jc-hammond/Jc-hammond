@@ -1,4 +1,3 @@
-theme: midnight
 # iOS Developer Showcase
 
 ## Table of Contents
