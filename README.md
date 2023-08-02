@@ -35,11 +35,10 @@ Tools & Software: Figma, Postman, React Native Debugger
 I led the mobile development of the LBH beauty products application, where I effectively utilized React Native and the MVVM design pattern. This endeavor resulted in a visually captivating and highly user-friendly application that significantly enhanced user experience.
 
 <p float="left">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHHome.png" width="200">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHProducts.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHMenu.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHProductDetails.png" width="200" />
-     <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/LBHCart.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHHome.png" width="200">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHProducts.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHMenu.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHProductDetails.png" width="200" />
 </p>
 
 In collaboration with 808 Partners
@@ -51,10 +50,10 @@ I undertook a holistic overhaul of the Muunifi application's design, deploying R
 
 
 <p float="left">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiHome.png" width="200">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiHomeTwo.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiMenu.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/MuunifiCreatePost.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHome.png" width="200">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHomeTwo.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiMenu.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiCreatePost.png" width="200" />
 </p>
 
 
@@ -62,10 +61,10 @@ In collaboration with 808 Partners
 
 ### GitFitWithFriends
 <p float="left">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-0.png" width="200">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-1.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-2.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/framed-image-3.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-0.png" width="200">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-1.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-2.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-3.png" width="200" />
 </p>
 
 
