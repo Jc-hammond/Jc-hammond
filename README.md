@@ -18,8 +18,6 @@ A seasoned iOS Developer with expertise in Swift, React Native (TS/JS), and Swif
 
 ## Skills
 
-My technical competencies encompass a diverse range of languages, frameworks, and tools:
-
 Languages: Swift, React Native, Objective-C
 
 Frameworks & Libraries: SwiftUI, UIKit
@@ -106,6 +104,31 @@ In collaboration with 808 Partners
 In collaboration with 808 Partners
 
 ### GitFitWithFriends
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+- Built the backend using CloudKit to ensure users have up-to-date data across devices
+- Created the ablity to allow users to send and accept friend requests and event invites
+- Designed the unique UI using Figma
+  
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- Swift
+- CloudKit
+- MVC
+- Storyboards
+
+    </td>
+  </tr>
+</table>
+
 <p float="left">
   <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-0.png" width="200">
   <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-1.png" width="200" />
@@ -119,7 +142,7 @@ In collaboration with 808 Partners
 
 ## Experience
 
-Presently, I serve as a Mobile Software Engineer (iOS Specialist) at 808 Partners, Inc., where I have led the comprehensive redesign of the Muunifi application, developed a dynamic theme switcher, spearheaded the development of the LBH beauty products application, and assisted in the backend migration for the Tether app.
+Most recently, I served as a Mobile Software Engineer (iOS Specialist) at 808 Partners, Inc., where I have led the redesign of the Muunifi application, developed a dynamic theme switcher, spearheaded the development of the LBH beauty products application, and assisted in the backend migration for the Tether app.
 
 My previous experiences include my time as an iOS Developer Student at Devmountain, where I implemented a social workout experience feature in "GymBuddy" app and developed user-friendly applications using Xcode, Obj-C, and Swift. I also had the opportunity to serve as a Tech Specialist and Missionary at The Church of Jesus Christ of LDS, where I led the adoption of technological best practices and mentored team members to foster a collaborative work environment.
 
