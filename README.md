@@ -21,8 +21,11 @@ A seasoned iOS Developer with expertise in Swift, React Native (TS/JS), and Swif
 My technical competencies encompass a diverse range of languages, frameworks, and tools:
 
 Languages: Swift, React Native, Objective-C
+
 Frameworks & Libraries: SwiftUI, UIKit
+
 Database & Industry Tools: Firebase, CloudKit, Core Data
+
 Tools & Software: Figma, Postman, React Native Debugger, Git, Bitbucket
 
 ## Projects
