@@ -1,15 +1,10 @@
 # iOS Developer Showcase
 
-## Table of Contents
+## Connor Hammond
 
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-    - [Muunifi](#Muunifi)
-    - [LBH](#LBH)
-    - [GitFitWithFriends](#GitFitWithFriends)
-- [Experience](#experience)
-- [Education](#education)
+<img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHome.png" width="200">
+
+
 - [Contact Information](#contact-information)
 
   <table>
