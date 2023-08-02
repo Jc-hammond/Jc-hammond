@@ -12,19 +12,28 @@
 - [Education](#education)
 - [Contact Information](#contact-information)
 
+  <table>
+  <tr>
+    <td valign="top" width="50%">
+      
 ## About Me
 
-A seasoned iOS Developer with expertise in Swift, React Native (TS/JS), and SwiftUI, I am located in Orem, UT and prefer remote or hybrid work environments. I specialize in creating intuitive user interfaces and efficient backend solutions that improve user interaction and enhance overall application performance. With hands-on experience in utilizing industry-leading tools and software like Figma, Postman, and React Native Debugger, I am well-equipped to handle the demands of modern iOS application development.
+- A seasoned iOS Developer with expertise in Swift, React Native (TS/JS), and SwiftUI, I am located in Orem, UT and prefer remote or hybrid work environments. I specialize in creating intuitive user interfaces and efficient backend solutions that improve user interaction and enhance overall application performance. With hands-on experience in utilizing industry-leading tools and software like Figma, Postman, and React Native Debugger, I am well-equipped to handle the demands of modern iOS application development.
+  
+    </td>
+    <td valign="top" width="50%">
 
 ## Skills
 
-Languages: Swift, React Native, Objective-C
+- Languages: Swift, React Native, Objective-C
+- Frameworks & Libraries: SwiftUI, UIKit
+- Database & Industry Tools: Firebase, CloudKit, Core Data
+- Tools & Software: Figma, Postman, React Native Debugger, Git, Bitbucket
 
-Frameworks & Libraries: SwiftUI, UIKit
+    </td>
+  </tr>
+</table>
 
-Database & Industry Tools: Firebase, CloudKit, Core Data
-
-Tools & Software: Figma, Postman, React Native Debugger, Git, Bitbucket
 
 ## Projects
 
