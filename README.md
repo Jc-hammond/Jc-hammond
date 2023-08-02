@@ -92,7 +92,6 @@ In collaboration with 808 Partners
   </tr>
 </table>
 
-I led the mobile development of the LBH beauty products application, where I effectively utilized React Native and the MVVM design pattern. This endeavor resulted in a visually captivating and highly user-friendly application that significantly enhanced user experience.
 
 <p float="left">
   <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHHome.png" width="200">
