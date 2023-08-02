@@ -5,8 +5,8 @@
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Projects](#projects)
-    - [LBH](#LBH)
     - [Muunifi](#Muunifi)
+    - [LBH](#LBH)
     - [GitFitWithFriends](#GitFitWithFriends)
 - [Experience](#experience)
 - [Education](#education)
@@ -23,11 +23,25 @@ My technical competencies encompass a diverse range of languages, frameworks, an
 Languages: Swift, React Native (TS/JS), Objective-C
 Frameworks & Libraries: SwiftUI, UIKit
 Database & Industry Tools: Firebase, CloudKit, Core Data
-Tools & Software: Figma, Postman, React Native Debugger
+Tools & Software: Figma, Postman, React Native Debugger, Git, Bitbucket
 
 ## Projects
 
-<!-- Showcase your projects. Include the project title, brief description, technologies used, and links to the source code and demo (if available). It's good to have screenshots or GIFs to visualize your work. -->
+
+### Muunifi
+
+I engineered a versatile theme switcher for the Muunifi application using React Native and TypeScript, providing users the flexibility to select their preferred dark or light modes, thereby enhancing the overall user experience.
+
+
+<p float="left">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHome.png" width="200">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHomeTwo.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiMenu.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiCreatePost.png" width="200" />
+</p>
+
+
+In collaboration with 808 Partners
 
 
 ### LBH
@@ -40,22 +54,6 @@ I led the mobile development of the LBH beauty products application, where I eff
   <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHMenu.png" width="200" />
   <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHProductDetails.png" width="200" />
 </p>
-
-In collaboration with 808 Partners
-
-
-### Muunifi
-
-I undertook a holistic overhaul of the Muunifi application's design, deploying React Native's Animation along with custom dynamic styling components. This transformation led to an unprecedented and intuitive design that boosted user engagement and overall satisfaction. Furthermore, I engineered a versatile theme switcher for the Muunifi application using React Native and TypeScript, providing users the flexibility to select their preferred dark or light modes, thereby enhancing the overall user experience.
-
-
-<p float="left">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHome.png" width="200">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHomeTwo.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiMenu.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiCreatePost.png" width="200" />
-</p>
-
 
 In collaboration with 808 Partners
 
