@@ -2,10 +2,9 @@
 
 ## Connor Hammond
 
-<img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/ProfilePicture.jpeg" width="200">
-
-
-- [Contact Information](#contact-information)
+<p align="center">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/ProfilePicture.jpeg" width="200" style="border-radius:50%;">
+</p>
 
   <table>
   <tr>
