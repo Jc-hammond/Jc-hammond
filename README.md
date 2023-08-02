@@ -33,6 +33,12 @@
 
 
 ### Muunifi
+<p float="left">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHome.png" width="200">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHomeTwo.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiMenu.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiCreatePost.png" width="200" />
+</p>
 
 <table>
   <tr>
@@ -59,18 +65,16 @@
 </table>
 
 
-<p float="left">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHome.png" width="200">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHomeTwo.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiMenu.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiCreatePost.png" width="200" />
-</p>
-
-
 In collaboration with 808 Partners
 
 
 ### LBH
+<p float="left">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHHome.png" width="200">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHProducts.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHMenu.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHProductDetails.png" width="200" />
+</p>
 
 <table>
   <tr>
@@ -97,16 +101,16 @@ In collaboration with 808 Partners
 </table>
 
 
-<p float="left">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHHome.png" width="200">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHProducts.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHMenu.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHProductDetails.png" width="200" />
-</p>
-
 In collaboration with 808 Partners
 
 ### GitFitWithFriends
+
+<p float="left">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-0.png" width="200">
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-1.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-2.png" width="200" />
+  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-3.png" width="200" />
+</p>
 
 <table>
   <tr>
@@ -131,17 +135,6 @@ In collaboration with 808 Partners
     </td>
   </tr>
 </table>
-
-<p float="left">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-0.png" width="200">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-1.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-2.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-3.png" width="200" />
-</p>
-
-
-
-
 
 ## Experience
 
