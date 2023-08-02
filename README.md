@@ -2,7 +2,7 @@
 
 ## Connor Hammond
 
-<img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHome.png" width="200">
+<img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/ProfilePicture.jpeg" width="200">
 
 
 - [Contact Information](#contact-information)
