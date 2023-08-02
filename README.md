@@ -20,7 +20,7 @@ A seasoned iOS Developer with expertise in Swift, React Native (TS/JS), and Swif
 
 My technical competencies encompass a diverse range of languages, frameworks, and tools:
 
-Languages: Swift, React Native (TS/JS), Objective-C
+Languages: Swift, React Native, Objective-C
 Frameworks & Libraries: SwiftUI, UIKit
 Database & Industry Tools: Firebase, CloudKit, Core Data
 Tools & Software: Figma, Postman, React Native Debugger, Git, Bitbucket
@@ -30,7 +30,29 @@ Tools & Software: Figma, Postman, React Native Debugger, Git, Bitbucket
 
 ### Muunifi
 
-I engineered a versatile theme switcher for the Muunifi application using React Native and TypeScript, providing users the flexibility to select their preferred dark or light modes, thereby enhancing the overall user experience.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+- Engineered a versatile theme switcher for the Muunifi application using React Native, providing users the flexibility to select their preferred dark or light modes, thereby enhancing the overall user experience.
+- Executed a comprehensive redesign of the Muunifi application, utilizing React Native's Animation and custom dynamic styling components, resulting in an intuitive design that enhanced user interaction and overall experience
+  
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- React Native
+- React Native Animation
+- MVVM
+- Custom dynamic styling
+- Custom threads feature
+
+    </td>
+  </tr>
+</table>
 
 
 <p float="left">
@@ -45,6 +67,30 @@ In collaboration with 808 Partners
 
 
 ### LBH
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+## Contributions
+
+- Led the development of the mobile application
+- Implemented custom UI components such as image carousels, item tab bars, floating side menu using React Native components
+- Built a clean, modern, and user-friendly UI
+  
+    </td>
+    <td valign="top" width="50%">
+
+## Technologies Used
+
+- React Native
+- MVVM
+- Stripe for handeling purchaes
+- Custom image carousels
+
+    </td>
+  </tr>
+</table>
 
 I led the mobile development of the LBH beauty products application, where I effectively utilized React Native and the MVVM design pattern. This endeavor resulted in a visually captivating and highly user-friendly application that significantly enhanced user experience.
 
