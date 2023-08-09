@@ -2,10 +2,6 @@
 
 ## Connor Hammond
 
-<p align="center">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/ConnorHPic.JPG" width="200" style="border-radius:50%;">
-</p>
-
   <table>
   <tr>
     <td valign="top" width="50%">
