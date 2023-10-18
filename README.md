@@ -15,10 +15,9 @@
 
 ## Skills
 
-- Languages: Swift, React Native, Objective-C
-- Frameworks & Libraries: SwiftUI, UIKit
-- Database & Industry Tools: Firebase, CloudKit, Core Data
-- Tools & Software: Figma, Postman, React Native Debugger, Git, Bitbucket
+- Languages | Swift | React Native
+- Frameworks & Libraries | SwiftUI | UIKit | CloudKit | CoreData | SwiftData
+- Tools & Software | Figma | Postman | React Native Debugger | Git | Bitbucket | Firebase | App Store Connect
 
     </td>
   </tr>
