@@ -147,7 +147,7 @@ I graduated from Devmountain, Lehi UT in 2021 with a certificate in iOS Software
 
 Email: jasonchammond@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/jconnorhammond/
+LinkedIn: https://www.linkedin.com/in/connor-hammond-ios
 
-Resume: https://tinyurl.com/ConnorHResume
+Resume: https://tinyurl.com/ConnorHiOS
 
