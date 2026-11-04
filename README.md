@@ -1,153 +1,56 @@
-# iOS Developer Showcase
+# Hey, I’m Connor.
 
-## Connor Hammond
+I love building software, especially apps. There’s something satisfying about taking an idea, working through the details, and putting something in people’s hands.
 
-  <table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## About Me
+I’ve built apps from the ground up, rebuilt an existing app for iOS and Android, and worked on the things that need to hold up after launch, from offline functionality to subscriptions and releases. My background is in native iOS, and I also build with React Native and TypeScript.
 
-- A seasoned iOS Developer with expertise in Swift, React Native, and SwiftUI, I am located in Orem, UT and prefer remote or hybrid work environments. I specialize in creating intuitive user interfaces and efficient backend solutions that improve user interaction and enhance overall application performance. With hands-on experience in utilizing industry-leading tools and software like Figma, Postman, and React Native Debugger, I am well-equipped to handle the demands of modern iOS application development.
-  
-    </td>
-    <td valign="top" width="50%">
+Right now, I’m a software engineer at Covr, working on two mobile apps and helping the team adopt AI tools in its development workflow.
 
-## Skills
+## Some of the apps I’ve worked on
 
-- Languages | Swift | React Native
-- Frameworks & Libraries | SwiftUI | UIKit | CloudKit | CoreData | SwiftData
-- Tools & Software | Figma | Postman | React Native Debugger | Git | Bitbucket | Firebase | App Store Connect
+<img align="left" src="Assets/apps/intellicharge.png" width="66" height="52" alt="IntelliCharge icon">
 
-    </td>
-  </tr>
-</table>
+**IntelliCharge** · Grid Elevated<br>
+I rebuilt the existing app in SwiftUI for iOS, used Skip to bring it to Android, and took both versions through store review.
 
+<br clear="left">
 
-## Projects
+<img align="left" src="Assets/apps/cxalloy.svg" width="66" height="52" alt="CxAlloy">
 
+**CxAlloy**<br>
+I worked on the SQLite layer that supports offline use for people working in the field, as well as the app’s move to Liquid Glass.
 
-### Muunifi
-<p float="left">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHome.png" width="200">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiHomeTwo.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiMenu.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/MuunifiCreatePost.png" width="200" />
-</p>
+<br clear="left">
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+<img align="left" src="Assets/apps/muunifi.png" width="66" height="52" alt="Muunifi icon">
 
-- Engineered a versatile theme switcher for the Muunifi application using React Native, providing users the flexibility to select their preferred dark or light modes, thereby enhancing the overall user experience.
-- Executed a comprehensive redesign of the Muunifi application, utilizing React Native's Animation and custom dynamic styling components, resulting in an intuitive design that enhanced user interaction and overall experience
-  
-    </td>
-    <td valign="top" width="50%">
+**Muunifi** · 808 Partners<br>
+I worked on offline sync, subscriptions, and payouts for an app used by finance creators.
 
-## Technologies Used
+<br clear="left">
 
-- React Native
-- React Native Animation
-- MVVM
-- Custom dynamic styling
-- Custom threads feature
+<img align="left" src="Assets/apps/lbh.png" width="66" height="52" alt="LBH Skincare icon">
 
-    </td>
-  </tr>
-</table>
+**LBH Skincare** · 808 Partners<br>
+I built an app that helps skincare teams learn about products and place orders, taking it from concept through launch.
 
+<br clear="left">
 
-In collaboration with 808 Partners
+<img align="left" src="Assets/apps/rewire.png" width="66" height="52" alt="Rewire icon">
 
+**Rewire** · Personal project<br>
+A recovery tracker for people using the Sinclair Method, built with Swift and CloudKit.
 
-### LBH
-<p float="left">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHHome.png" width="200">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHProducts.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHMenu.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/LBHProductDetails.png" width="200" />
-</p>
+<br clear="left">
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
+## What I’m building outside of work
 
-- Led the development of the mobile application
-- Implemented custom UI components such as image carousels, item tab bars, floating side menu using React Native components
-- Built a clean, modern, and user-friendly UI
-  
-    </td>
-    <td valign="top" width="50%">
+I tend to have a few projects going at once. Lately, that includes Lagoona, a Sudoku app in TestFlight; Drawn, an iOS game; and ChewedGumGames, an arcade I’m building for friends.
 
-## Technologies Used
+I enjoy having a place to try ideas, learn new things, and build the kinds of apps and games I want to use myself.
 
-- React Native
-- MVVM
-- Stripe for handeling purchaes
-- Custom image carousels
+## Tools I work with
 
-    </td>
-  </tr>
-</table>
+Swift, SwiftUI, UIKit, SQLite, CloudKit, React Native, TypeScript, and Skip.
 
-
-In collaboration with 808 Partners
-
-### GitFitWithFriends
-
-<p float="left">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-0.png" width="200">
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-1.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-2.png" width="200" />
-  <img src="https://github.com/Jc-hammond/Jc-hammond/blob/main/Assets/framed-image-3.png" width="200" />
-</p>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-## Contributions
-
-- Built the backend using CloudKit to ensure users have up-to-date data across devices
-- Created the ablity to allow users to send and accept friend requests and event invites
-- Designed the unique UI using Figma
-  
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-
-- Swift
-- CloudKit
-- MVC
-- Storyboards
-
-    </td>
-  </tr>
-</table>
-
-## Experience
-
-Most recently, I served as a Mobile Software Engineer (iOS Specialist) at 808 Partners, Inc., where I have led the redesign of the Muunifi application, developed a dynamic theme switcher, spearheaded the development of the LBH beauty products application, and assisted in the backend migration for the Tether app.
-
-My previous experiences include my time as an iOS Developer Student at Devmountain, where I implemented a social workout experience feature in "GitFitWithFriends" app and developed user-friendly applications using Xcode, Obj-C, and Swift. I also had the opportunity to serve as a Tech Specialist and Missionary at The Church of Jesus Christ of LDS, where I led the adoption of technological best practices and mentored team members to foster a collaborative work environment.
-
-With my wide range of experiences and proven skills, I am a strong candidate for any iOS development position, and am ready to leverage my skills to contribute to innovative and exciting projects.
-
-## Education
-
-I graduated from Devmountain, Lehi UT in 2021 with a certificate in iOS Software Development.
-
-## Contact Information
-
-Email: jasonchammond@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/connor-hammond-ios
-
-Resume: https://tinyurl.com/ConnorHiOS
-
+[Portfolio](https://connorhammond.dev) · [LinkedIn](https://www.linkedin.com/in/connor-hammond-ios/)
